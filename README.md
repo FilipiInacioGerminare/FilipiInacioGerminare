@@ -1,14 +1,12 @@
 <h1 align='center'>
-  Hi, My name is Filipi Inácio!
-  <br/>
-  Welcome to my page :)
+  Hello!👋🏻 Who am I?
+  <br>
 </h1>
 
 ### 🎯 About me:
 
 <p>
   <em>
-    Prazer em conhecê-lo, tenho 16 anos de idade, estudo todo dis para se tornar um desenvolvedor.
     Nice to meet you, I'm 16 years old and, I study every day to become a Developer.
   </em>
 </p>
@@ -36,11 +34,11 @@ These are the tecnologies I use:
 
 - Front-End
 
-[![My skills](https://skillicons.dev/icons?i=vscode,html,css,sass,js,ts,react)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=vscode,html,css,js,ts,react,figma)](https://skillicons.dev)
 
 - Back-End
 
-[![My skills](https://skillicons.dev/icons?i=java,mysql,pyt)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=idea,java,mysql,py,postgres)](https://skillicons.dev)
 
 - Tools and platforms
 
