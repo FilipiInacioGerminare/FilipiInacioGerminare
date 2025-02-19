@@ -5,11 +5,7 @@
 
 ### 🎯 About me:
 
-<p>
-  <em>
-    Nice to meet you, I'm 16 years old and, I study every day to become a Developer.
-  </em>
-</p>
+  *Nice to meet you, I'm 16 years old and, I study every day to become a Developer.*
 
 <br>
 
