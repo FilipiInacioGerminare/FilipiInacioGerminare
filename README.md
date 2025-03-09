@@ -14,7 +14,7 @@
 
 <br>
 
-### 📊 Targets 2024:
+### 📊 Targets 2025:
 
 - 📂 Expanding my knowledge;
 
